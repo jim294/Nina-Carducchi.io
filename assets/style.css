@@ -264,7 +264,6 @@ input[type="submit"] {
 @media all and (max-width: 1000px) {
 	#about{
 		flex-direction: column;
-
 	}
 	.picture {
 		width: 50%;
@@ -352,6 +351,12 @@ input[type="submit"] {
 	}
 	.picture {
 		width: 80%;
+	}
+	.carousel-item img{
+		height: 173px;
+	}
+	.picture img{
+		height: 248px;
 	}
 }
 
