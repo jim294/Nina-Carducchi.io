@@ -4,8 +4,9 @@
 Je suis développeur freelance et je décide de proposer mes services d’optimisation SEO à de nouveaux clients. Pour ce faire, j'ai analysé plusieurs sites internet. J'ai ensuite pris contact avec les administrateurs des sites qui peuvent être optimisés pour leur proposer vos services.
 Parmi mes prospects, il y a le site de Nina Carducci, une photographe dont m'a parlé l’un de mes amis.
 
-Voici l'analyse SEO du site avant mes modifications [ici](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P9+Optimisation/audit_nina_carducci.pdf)
-Vous pouvez retrouver mes résultats d'analyse SEO aprés mes modifications [ici](http://91.163.49.151:61821/share/MuWzG0PwLwtSsJFT/Deschamps_Jean-Marie_2_audit_lighthouse_112023.pdf)
+Voici l'analyse SEO du site avant mes modifications [ici](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P9+Optimisation/audit_nina_carducci.pdf).
+
+Vous pouvez retrouver mes résultats d'analyse SEO aprés mes modifications [ici](http://91.163.49.151:61821/share/MuWzG0PwLwtSsJFT/Deschamps_Jean-Marie_2_audit_lighthouse_112023.pdf) => ouvrez dans un nouvel onglet et validez sur chrome pour  télécharger le document.
 
 Mon site est visible sur : [Nina Carducchi by Jim294](https://jim294.github.io/Nina-Carducchi.io/)
 
