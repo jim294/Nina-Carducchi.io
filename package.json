@@ -1,0 +1,16 @@
+{
+    "name": "projet-9-nina-carducchi",
+    "version": "1.0.0",
+    "description": "projet 9 OpenClassroom",
+    "scripts": {
+      "start": "http-server"
+    },
+    "author": "Jm",
+    "license": "ISC",
+    "devDependencies": {
+      "sass": "^1.63.6"
+    },
+    "dependencies": {
+      "http-server": "^14.1.1"
+    }
+  }
