@@ -6,7 +6,7 @@ Parmi mes prospects, il y a le site de Nina Carducci, une photographe dont m'a p
 
 Voici l'analyse SEO du site avant mes modifications [ici](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P9+Optimisation/audit_nina_carducci.pdf).
 
-Vous pouvez retrouver mes résultats d'analyse SEO aprés mes modifications [ici](http://91.163.49.151:61821/share/MuWzG0PwLwtSsJFT/Deschamps_Jean-Marie_2_audit_lighthouse_112023.pdf) => ouvrez sur chrome dans une nouvelle fenêtre et validez pour  télécharger le document.
+Vous pouvez retrouver mes résultats d'analyse SEO aprés mes modifications [ici](http://91.163.49.151:61821/share/MuWzG0PwLwtSsJFT/Deschamps_Jean-Marie_2_audit_lighthouse_112023.pdf) => ouvrez sur chrome dans une nouvelle fenêtre et validez dans la barre de recherche pour  télécharger le document.
 
 Mon site est visible sur : [Nina Carducchi by Jim294](https://jim294.github.io/Nina-Carducchi.io/)
 
